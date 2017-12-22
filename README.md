@@ -47,10 +47,11 @@ Fighters are represented as strings when added to the arena. The following forma
 (name) (type) (maximum hit points) (strength) (speed) (magic)
 Example: Xephos A 200 13 21 10
 The name is a single word; the type is a single capital letter ((R)obot, (A)rcher, or (C)leric); the remaining four stats are positive integers.
-Fighting
+
+## Fighting
 
 The following is a table of battles that will be run by the test driver:
-
+!(https://mjcleme.github.io/CS235Lab1Battles.png)
 
  
 
