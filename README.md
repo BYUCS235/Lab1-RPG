@@ -1,9 +1,9 @@
 # RPGLab-1
 The template for RPG Lab #1
 
-#Requirements
+# Requirements
 
-##Overview
+## Overview
 
 You will need the files in this git repository to complete this assignment
 
