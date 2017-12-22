@@ -55,6 +55,8 @@ The following is a table of battles that will be run by the test driver:
 
  
 
-Class Hierarchy 
+## Class Hierarchy 
 
-The following class hierarchy diagram shows the expected inheritance relationship between classes.  Each box represents a class with inheritance indicated by the arrows.  You will still need to make a complete UML diagram that includes the data members and member functions of each class in order to receive full credit for the lab.
+The following class hierarchy diagram shows the expected inheritance relationship between classes.  Each box represents a class with inheritance indicated by the arrows.  You should have at least this set of classes to complete the lab.
+
+![Lab1UML](https://mjcleme.github.io/CS235Lab1UML.png "UML")
