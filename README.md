@@ -51,7 +51,7 @@ The name is a single word; the type is a single capital letter ((R)obot, (A)rche
 ## Fighting
 
 The following is a table of battles that will be run by the test driver:
-!(https://mjcleme.github.io/CS235Lab1Battles.png)
+![Battles](https://mjcleme.github.io/CS235Lab1Battles.png "Battles")
 
  
 
