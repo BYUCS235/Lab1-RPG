@@ -1,0 +1,63 @@
+USE ABILITY
+getSize
+addFighter Fumblemore C 100 10 10 100
+addFighter Creeper R 10 100 1 1
+addFighter Cow R 10 2 1 3
+addFighter Sheep A 5 1 1 1
+addFighter Tinman R 100 5 1 7
+addFighter Spacker R 50 1 1 1
+addFighter Joshua R 1000 10 80 10
+addFighter NORAD R 750 30 40 1
+addFighter Honeydew R 150 14 8 11
+addFighter HoneydewClone R 150 14 8 11
+addFighter Israphel A 90 12 16 1
+addFighter IsraphelClone A 90 12 16 1
+addFighter Father_Braeburn C 90 4 12 20
+addFighter Father_BraeburnClone C 90 4 12 20
+battle Fumblemore Creeper
+reset Fumblemore
+reset Creeper
+battle Creeper Sheep
+reset Creeper
+reset Sheep
+battle Cow Sheep
+reset Cow
+reset Sheep
+battle Tinman Spacker
+reset Tinman
+reset Spacker
+battle Joshua NORAD
+reset Joshua
+reset NORAD
+battle Honeydew HoneydewClone
+reset Honeydew
+reset HoneydewClone
+battle Israphel IsraphelClone
+reset Israphel
+reset IsrahelClone
+battle Father_Braeburn Father_BraeburnClone
+reset Father_Braeburn
+reset Father_BraeburnClone
+battle Honeydew Israphel
+reset Honeydew
+reset Israphel
+battle Israphel Father_Braeburn
+reset Israphel
+reset Father_Braeburn
+battle Honeydew Father_Braeburn
+reset Honeydew
+reset Father_Braeburn
+removeFighter Fumblemore
+removeFighter Creeper
+removeFighter Cow
+removeFighter Sheep
+removeFighter Tinman
+removeFighter Spacker
+removeFighter Joshua
+removeFighter NORAD
+removeFighter Honeydew
+removeFighter HoneydewClone
+removeFighter Israphel
+removeFighter IsraphelClone
+removeFighter Father_Braeburn
+removeFighter Father_BraeburnClone

@@ -1,0 +1,9 @@
+removeFighter John False
+addFighter Jason A 1 1 1 Invalid
+addFighter Yason A 1 1 m 1 Invalid
+addFighter Hason 1 1 1 1 Invalid
+addFighter Lason A 1 1 1 1 1 Invalid
+addFighter Mason A 1 2 3 4 Added
+addFighter Mason C 5 6 7 8 Invalid
+removeFighter Mason True
+getSize 0

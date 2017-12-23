@@ -1,0 +1,9 @@
+USE ABILITY
+getSize
+getFighter Josh
+addFighter Josh A 2 3 4 5
+getSize
+getFighter Josh
+removeFighter Josh
+getFighter Josh
+getSize

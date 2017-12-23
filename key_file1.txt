@@ -1,0 +1,9 @@
+getSize 0
+getFighter Josh NULL
+addFighter Josh A 2 3 4 5 Added
+getSize 1
+getFighter Josh
+  Josh 2 2 3 4 5
+removeFighter Josh True
+getFighter Josh NULL
+getSize 0

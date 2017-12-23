@@ -1,0 +1,32 @@
+NO ABILITY
+getSize
+addFighter Josh A 100 3 4 5
+addFighter Kel C 100 3 4 5
+addFighter Nebula R 100 3 4 5
+addFighter Spryte C 100 3 4 5
+addFighter Vale R 100 3 4 5
+addFighter Spen00 A 100 3 4 5
+reset Josh
+reset Kel
+reset Nebula
+reset Spryte
+reset Vale
+reset Spen00
+getSize
+battle Josh Kel
+battle Nebula Spryte
+battle Vale Spen00
+getFighter Josh
+getFighter Kel
+getFighter Nebula
+getFighter Spryte
+getFighter Vale
+getFighter Spen00
+removeFighter Josh
+removeFighter Kel
+removeFighter Nebula
+removeFighter Spryte
+removeFighter Vale
+removeFighter Spen00
+removeFighter Al
+getSize
